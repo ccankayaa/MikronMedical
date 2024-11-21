@@ -2446,11 +2446,12 @@ button {
   background-color: rgba(0, 0, 0, 0.3);
 }
 .about-video .video-wrap .play-btn span {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   border-radius: 100%;
   display: inline-block;
   background-color: #334eff;
+  background-image: url('../images/icons/play.svg');
 }
 
 /* about section - end */
