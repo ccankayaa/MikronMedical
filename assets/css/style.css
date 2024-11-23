@@ -502,6 +502,9 @@ strong, span, small, label, i {
 ================================================== */
 /* pagination nav - start
 ================================================== */
+.pagination-nav {
+margin-bottom: 50px;
+}
 .pagination-nav > ul > li {
   height: 36px;
   min-width: 36px;
@@ -4162,7 +4165,6 @@ button {
 }
 .primary-contact-info .item-icon {
   left: 0px;
-  bottom: 18px;
   line-height: 1;
   font-size: 30px;
   position: absolute;
@@ -6122,6 +6124,14 @@ button {
 
 .search-form-li{
   margin: 0 auto;
+}
+
+.stock-status > ul > li{
+  margin-bottom: 5px;
+}
+
+.feature-section{
+  padding: 0!important;
 }
 /* ====================================================================================================
 9 - media screen and (max-width: 320px) - end
